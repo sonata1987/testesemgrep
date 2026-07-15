@@ -1,0 +1,13 @@
+name: Run Security Analysis
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  call-semgrep-sast:
+    # Substitua "sonata1987" pelo seu usuário e "teste-owaspzap" pelo nome correto do seu repositório reusable
+    uses: sonata1987/teste-owaspzap/.github/workflows/security.yml@main
+  
