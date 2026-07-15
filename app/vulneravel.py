@@ -16,3 +16,4 @@ if __name__ == "__main__":
     arquivo_usuario = "vulneravel.py; whoami; cat /etc/passwd" 
     
     listar_info_arquivo(arquivo_usuario)
+#comentario para teste
