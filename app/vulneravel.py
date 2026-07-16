@@ -17,15 +17,4 @@ if __name__ == "__main__":
     
     listar_info_arquivo(arquivo_usuario)
 #comentario para teste
-#vai que vai
-#vamo
-#agora vai
-#é o hexa
-#so em 2030
-#teste owasp top10
-#teste do teste
-#vaimisera
-#disgrama
-#infernooooo
-#vamo
-#mudando isso
+
