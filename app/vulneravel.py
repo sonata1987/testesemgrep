@@ -17,4 +17,4 @@ if __name__ == "__main__":
     
     listar_info_arquivo(arquivo_usuario)
 #comentario para teste
-
+#teste
